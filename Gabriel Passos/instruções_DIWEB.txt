@@ -1,0 +1,12 @@
+INSTRUÇÕES PARA AULA DIWEB
+
+-- VS CODE configurações
+	Sincronizar conta MICROSOFT + Github
+	Ativar Word Wrap
+		encontra-se no menu "Settings" (Ctrl + ,)
+	Ativar AutoSave
+		encontra-se na aba "FILE"
+	Instalar LiveServer
+		encontra-se na aba "EXTENÇÃO"
+	Instalar Material Icon
+		encontra-se na aba "EXTENÇÃO"
